@@ -32,7 +32,7 @@ Have an idea for a specialized AI agent? Great! Here's how to add one:
 
 1. **Fork the repository**
 2. **Choose the appropriate division** — or propose a new one. Divisions are the
-   top-level agent directories (e.g. `engineering/`, `security/`, `gis/`, `marketing/`,
+   top-level agent directories (e.g. `engineering/`, `security/`, `marketing/`,
    `finance/`…); browse them to find where your agent fits. The authoritative list —
    with labels, icons, and colors — is [`divisions.json`](divisions.json) at the repo
    root, so it's always current.

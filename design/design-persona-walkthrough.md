@@ -156,7 +156,7 @@ Priority tiers:
 
 ### Pre-flight
 - Load relevant project context and content skills if available — domain knowledge improves both the persona's reactions and the analyst's recommendations
-- From the `agency-router` (if available), load `academic/academic-psychologist.md` and `design/design-ux-researcher.md` for deeper persona construction and methodological rigor
+- From the `agency-router` (if available), load `design/design-ux-researcher.md` for deeper persona construction and methodological rigor
 
 ### Phase 0 — Pre-Arrival (no screenshot)
 Set the scene. Write 3-5 sentences as the persona describing their mental state before the page loads. What are they expecting? Hoping for? Worried about? This establishes the emotional baseline.

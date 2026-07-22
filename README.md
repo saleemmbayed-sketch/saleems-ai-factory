@@ -290,19 +290,6 @@ The backbone of the operation.
 | ⚖️ [Legal Compliance Checker](support/support-legal-compliance-checker.md) | Compliance, regulations, legal review | Legal compliance, regulatory requirements, risk management |
 | 📑 [Executive Summary Generator](support/support-executive-summary-generator.md) | C-suite communication, strategic summaries | Executive reporting, strategic communication, decision support |
 
-### 🥽 Spatial Computing Division
-
-Building the immersive future.
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🏗️ [XR Interface Architect](spatial-computing/xr-interface-architect.md) | Spatial interaction design, immersive UX | AR/VR/XR interface design, spatial computing UX |
-| 💻 [macOS Spatial/Metal Engineer](spatial-computing/macos-spatial-metal-engineer.md) | Swift, Metal, high-performance 3D | macOS spatial computing, Vision Pro native apps |
-| 🌐 [XR Immersive Developer](spatial-computing/xr-immersive-developer.md) | WebXR, browser-based AR/VR | Browser-based immersive experiences, WebXR apps |
-| 🎮 [XR Cockpit Interaction Specialist](spatial-computing/xr-cockpit-interaction-specialist.md) | Cockpit-based controls, immersive systems | Cockpit control systems, immersive control interfaces |
-| 🍎 [visionOS Spatial Engineer](spatial-computing/visionos-spatial-engineer.md) | Apple Vision Pro development | Vision Pro apps, spatial computing experiences |
-| 🔌 [Terminal Integration Specialist](spatial-computing/terminal-integration-specialist.md) | Terminal integration, command-line tools | CLI tools, terminal workflows, developer tools |
-
 ### 🎯 Specialized Division
 
 The unique specialists who don't fit in a box.
@@ -377,102 +364,6 @@ Accounting, financial analysis, tax strategy, and investment research specialist
 | 📈 [FP&A Analyst](finance/finance-fpa-analyst.md) | Budgeting, rolling forecasts, variance analysis, business reviews | Annual operating plans, monthly business reviews, strategic resource allocation |
 | 🔍 [Investment Researcher](finance/finance-investment-researcher.md) | Due diligence, portfolio analysis, asset valuation, equity research | Investment thesis development, risk assessment, market research |
 | 🏛️ [Tax Strategist](finance/finance-tax-strategist.md) | Tax optimization, multi-jurisdictional compliance, transfer pricing | Entity structuring, ETR analysis, audit defense, strategic tax planning |
-
-### 🎮 Game Development Division
-
-Building worlds, systems, and experiences across every major engine.
-
-#### Cross-Engine Specialists (Engine-Agnostic)
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🎯 [Game Designer](game-development/game-designer.md) | Systems design, GDD authorship, economy balancing, gameplay loops | Designing game mechanics, progression systems, writing design documents |
-| 🗺️ [Level Designer](game-development/level-designer.md) | Layout theory, pacing, encounter design, environmental storytelling | Building levels, designing encounter flow, spatial narrative |
-| 🎨 [Technical Artist](game-development/technical-artist.md) | Shaders, VFX, LOD pipeline, art-to-engine optimization | Bridging art and engineering, shader authoring, performance-safe asset pipelines |
-| 🔊 [Game Audio Engineer](game-development/game-audio-engineer.md) | FMOD/Wwise, adaptive music, spatial audio, audio budgets | Interactive audio systems, dynamic music, audio performance |
-| 📖 [Narrative Designer](game-development/narrative-designer.md) | Story systems, branching dialogue, lore architecture | Writing branching narratives, implementing dialogue systems, world lore |
-
-#### Unity
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🏗️ [Unity Architect](game-development/unity/unity-architect.md) | ScriptableObjects, data-driven modularity, DOTS/ECS | Large-scale Unity projects, data-driven system design, ECS performance work |
-| ✨ [Unity Shader Graph Artist](game-development/unity/unity-shader-graph-artist.md) | Shader Graph, HLSL, URP/HDRP, Renderer Features | Custom Unity materials, VFX shaders, post-processing passes |
-| 🌐 [Unity Multiplayer Engineer](game-development/unity/unity-multiplayer-engineer.md) | Netcode for GameObjects, Unity Relay/Lobby, server authority, prediction | Online Unity games, client prediction, Unity Gaming Services integration |
-| 🛠️ [Unity Editor Tool Developer](game-development/unity/unity-editor-tool-developer.md) | EditorWindows, AssetPostprocessors, PropertyDrawers, build validation | Custom Unity Editor tooling, pipeline automation, content validation |
-
-#### Unreal Engine
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| ⚙️ [Unreal Systems Engineer](game-development/unreal-engine/unreal-systems-engineer.md) | C++/Blueprint hybrid, GAS, Nanite constraints, memory management | Complex Unreal gameplay systems, Gameplay Ability System, engine-level C++ |
-| 🎨 [Unreal Technical Artist](game-development/unreal-engine/unreal-technical-artist.md) | Material Editor, Niagara, PCG, Substrate | Unreal materials, Niagara VFX, procedural content generation |
-| 🌐 [Unreal Multiplayer Architect](game-development/unreal-engine/unreal-multiplayer-architect.md) | Replication, Steam/Matchmaking, dedicated servers, net debug | Unreal multiplayer games, replication, client prediction |
-| 🏔️ [Unreal World Builder](game-development/unreal-engine/unreal-world-builder.md) | World Partition, HLOD, Landmass, PCG | Large open-world Unreal levels, procedural world generation |
-
-#### Godot
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🎮 [Godot Gameplay Scripter](game-development/godot/godot-gameplay-scripter.md) | GDScript/C#, scene tree, signals | Godot games — mechanics, UI, player systems |
-| 🌐 [Godot Multiplayer Engineer](game-development/godot/godot-multiplayer-engineer.md) | ENet/WebRTC, RPC, state sync | Godot multiplayer, dedicated servers, netcode |
-| ✨ [Godot Shader Developer](game-development/godot/godot-shader-developer.md) | Godot Shader Language, VisualShaders, VFX | Custom Godot shaders, post-processing, GPU particles |
-
-#### Roblox
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🏗️ [Roblox Experience Designer](game-development/roblox-studio/roblox-experience-designer.md) | Place design, game loops, monetization | Roblox game design, experience architecture |
-| 🎨 [Roblox Avatar Creator](game-development/roblox-studio/roblox-avatar-creator.md) | Avatar, accessories, layered clothing | Roblox avatar customization, UGC, marketplace items |
-| 💻 [Roblox Systems Scripter](game-development/roblox-studio/roblox-systems-scripter.md) | Luau, networked gameplay, DataStores | Roblox game logic, leaderboards, persistence |
-
-#### Blender
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🔧 [Blender Add-on Engineer](game-development/blender/blender-addon-engineer.md) | Python, bpy, UI toolkit, addon packaging | Blender addons, procedural tools, pipeline automation |
-
-### 🗺️ GIS Division
-
-Mapping, spatial analysis, and location intelligence.
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🗺️ [GIS Analyst](gis/gis-analyst.md) | Spatial analysis, geoprocessing, map production | Day-to-day GIS analysis, cartography, data management |
-| 📡 [GIS Spatial Data Engineer](gis/gis-spatial-data-engineer.md) | Data pipelines, ETL, database management | Geospatial data engineering, automation, large datasets |
-| 🔬 [GIS Spatial Data Scientist](gis/gis-spatial-data-scientist.md) | Spatial statistics, ML, predictive modeling | Advanced spatial analysis, geostatistics, spatial ML |
-| 🌐 [GIS Web GIS Developer](gis/gis-web-gis-developer.md) | Web maps, geospatial APIs, frontend | Web mapping applications, geospatial APIs |
-| 🏗️ [GIS Solution Engineer](gis/gis-solution-engineer.md) | Enterprise GIS, architecture, implementation | End-to-end GIS solutions, technical architecture |
-| 🌍 [GIS 3D Scene Developer](gis/gis-3d-scene-developer.md) | 3D scenes, digital twins, Cesium | 3D GIS, digital twin visualization, scene layers |
-| 🏛️ [GIS BIM Specialist](gis/gis-bim-specialist.md) | BIM integration, IFC, infrastructure | GIS-BIM integration, infrastructure digital twins |
-| 🎨 [GIS Cartography Designer](gis/gis-cartography-designer.md) | Map design, visual hierarchy, storytelling | Beautiful, publication-quality maps |
-| 🚁 [GIS Drone Reality Mapping](gis/gis-drone-reality-mapping.md) | Drone imagery, orthomosaics, 3D mesh | Drone-based mapping, reality capture |
-| 🤖 [GIS GeoAI ML Engineer](gis/gis-geoai-ml-engineer.md) | Deep learning for imagery, object detection | AI/ML for geospatial, feature extraction |
-| ✅ [GIS QA Engineer](gis/gis-qa-engineer.md) | Data quality, validation, automation | GIS data quality assurance and testing |
-| 💼 [GIS Technical Consultant](gis/gis-technical-consultant.md) | Client advisory, requirements, best practices | GIS consulting, requirements analysis, solutions advisory |
-
-### 📚 Academic Division
-
-Research, analysis, and scholarly rigor.
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 🧠 [Academic Psychologist](academic/academic-psychologist.md) | Research methods, statistical analysis | Academic research design, data analysis |
-| 📊 [Academic Statistician](academic/academic-statistician.md) | Statistical modeling, experimental design | Data analysis, hypothesis testing, research methodology |
-| 🏛️ [Academic Historian](academic/academic-historian.md) | Historical research, archival methods | Historical analysis, archival research, scholarly writing |
-| 🌍 [Academic Geographer](academic/academic-geographer.md) | Human/physical geography, spatial analysis | Geographic research, spatial humanities |
-| 👥 [Academic Anthropologist](academic/academic-anthropologist.md) | Ethnography, cultural analysis | Field research, cultural analysis, ethnographic methods |
-| 📖 [Academic Narratologist](academic/academic-narratologist.md) | Narrative theory, textual analysis | Literary analysis, narrative structure, storytelling theory |
-
-### 🏥 Healthcare Division
-
-Improving outcomes through AI-powered healthcare expertise.
-
-| Specialist | Specialty | When to Use |
-|---|---|---|
-| 💊 [Healthcare Innovation Strategist](healthcare/healthcare-innovation-strategist.md) | Healthcare innovation, digital health strategy | Healthcare transformation, digital health initiatives |
-| 🏛️ [Healthcare Sovereign Health Systems Agent](healthcare/healthcare-sovereign-health-systems-agent.md) | Health sovereignty, national health systems | Public health systems, health policy, sovereign capabilities |
-| 🔬 [Healthcare Clinical Evidence Agent](healthcare/healthcare-clinical-evidence-agent.md) | Clinical evidence, literature review, evidence-based practice | Clinical research support, evidence synthesis |
 
 ---
 

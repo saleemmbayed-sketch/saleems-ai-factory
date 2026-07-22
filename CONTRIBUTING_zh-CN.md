@@ -35,7 +35,7 @@
    - `project-management/` —— 项目管理与协调专家
    - `testing/` —— 质量保证与测试专家
    - `support/` —— 运营与支持专家
-   - `spatial-computing/` —— AR/VR/XR 专家
+   - `finance/`、`paid-media/`、`sales/`、`security/` —— 商业与风险专家
    - `specialized/` —— 无法归入其他分类的独特专家
 3. 按照下方模板创建智能体文件
 4. 在真实场景中测试你的智能体
